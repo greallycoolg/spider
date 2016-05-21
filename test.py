@@ -55,3 +55,5 @@ else:
 # # with open('jike.mp4','wb') as f:
 # with open(targetFile,'wb') as f:
 #     f.write(video.read())
+
+print 'haha'
